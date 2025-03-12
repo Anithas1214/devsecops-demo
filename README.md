@@ -81,7 +81,7 @@ The game implements the following rules:
 To create a production build:
 
 ```bash
-npm run build
+npm run build   
 # or
 yarn build
 ```
